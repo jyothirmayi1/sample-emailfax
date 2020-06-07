@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "6LvuCs9tPOUTv1buyTlD/LtmfdRYqdHXtayXRWMYo7xnthGjgZUf7nS3df0GAs5/Yiyz7+rMK56+YnCRzTetCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jyothi-dell\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jyothi-dell\\.nuget\\packages\\grpc.core\\2.28.1\\grpc.core.2.28.1.nupkg.sha512",
+    "C:\\Users\\Jyothi-dell\\.nuget\\packages\\grpc.core.api\\2.28.1\\grpc.core.api.2.28.1.nupkg.sha512",
+    "C:\\Users\\Jyothi-dell\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Jyothi-dell\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Jyothi-dell\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
+    "C:\\Users\\Jyothi-dell\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\Jyothi-dell\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Jyothi-dell\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Jyothi-dell\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "C:\\Users\\Jyothi-dell\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\Jyothi-dell\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\Jyothi-dell\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

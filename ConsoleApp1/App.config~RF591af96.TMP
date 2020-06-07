@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<appSettings>
+		<add key="smtpserver" value="smtp.gmail.com" />
+		<add key="smtpport" value="587" />
+		<add key="smtpusername" value="jyothir.mca2011@gmail.com" />
+		<add key="smtppassword" value="Jyothi@sai2" />
+		<add key="Fromadd" value="jyothir.mca2011@gmail.com" />
+		<add key="Filepath" value="C:\\\\Test "/>
+	</appSettings>
+	
+</configuration>
